@@ -1,21 +1,26 @@
 <h1 align="center">Hey 👋, I'm Divyasri</h1>
 
+<h3 align="center">
+  Full Stack Developer (Web & Mobile)
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(Web+%26+Mobile);AI+%26+Machine+Learning+Enthusiast;IoT+Explorer;Competitive+Programmer" />
+  Building scalable applications • Solving problems • Learning continuously
 </p>
 
 <p align="center">
-  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+  <span style="display:inline-block;width:140px;border-top:2px solid #2f3542;"></span>
 </p>
+
 
 
  👩‍💻 ABOUT ME
 
-I’m **Divyasri**, a Computer Science student with a strong interest in building modern, scalable, and impactful software solutions.
+I’m Divyasri, a Computer Science student passionate about building modern, scalable, and impactful software solutions.
 
-My core areas of interest include **Full Stack Development (Web & Mobile)**, **Artificial Intelligence & Machine Learning**, and **Internet of Things (IoT)**. I enjoy working across the complete development lifecycle — from designing intuitive user interfaces to implementing efficient backend systems.
+My core interests include **Full Stack Development (Web & Mobile)**, **Artificial Intelligence & Machine Learning**, and **Internet of Things (IoT)**. I enjoy working across the complete development lifecycle — from designing intuitive user interfaces to implementing efficient backend systems.
 
-I am also an active **Competitive Programmer**, consistently improving my problem-solving and algorithmic thinking skills on platforms like **LeetCode** and **CodeChef**.
+I’m also an active **Competitive Programmer**, continuously strengthening my problem-solving and algorithmic thinking through platforms like **LeetCode** and **CodeChef**.
 
 I’m continuously learning new technologies, exploring innovative ideas, and strengthening my technical foundation to grow as a professional software engineer.
 
@@ -32,11 +37,11 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
 
 ### 💻 Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 ---
