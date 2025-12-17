@@ -6,30 +6,22 @@
 </p>
 
 <hr/>
-
 ## 👩‍💻 About Me
 
-## 👩‍💻 About Me
+🎓 I am **Divyasri**, a passionate and dedicated **Computer Science student** with a strong interest in building impactful and scalable software solutions.
 
-<div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 18px; border-radius: 12px; color: #ffffff;">
+🚀 **My expertise includes:**
+- 🤖 **Artificial Intelligence & Machine Learning (AI/ML)**
+- 🌐 **Internet of Things (IoT)**
+- 💻 **Full Stack Development** – Web & Mobile Applications
+- 🧠 **Competitive Programming**
 
-<strong>AI & ML / IoT / Full Stack Developer (Web + Mobile) / Competitive Programmer</strong>
+🏆 I actively practice **Competitive Programming** on platforms like:
+- 🔸 **LeetCode**
+- 🔸 **CodeChef**
 
-<br><br>
+💡 I enjoy solving real-world problems through code, exploring new technologies, and continuously improving my problem-solving skills.
 
-🎓 I am <strong>Divyasri</strong>, a passionate Computer Science student focused on building scalable, real-world applications and solving complex problems through code.
-
-🚀 I specialize in developing end-to-end solutions across web and mobile platforms, with hands-on experience in Artificial Intelligence, Machine Learning, and IoT systems.
-
-🏆 I actively practice <strong>Competitive Programming</strong> and sharpen my problem-solving skills on platforms like:
-<ul>
-  <li><strong>LeetCode</strong></li>
-  <li><strong>CodeChef</strong></li>
-</ul>
-
-💡 Always eager to explore new technologies, improve system design skills, and grow as a software engineer.
-
-</div>
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20ML-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge" />
