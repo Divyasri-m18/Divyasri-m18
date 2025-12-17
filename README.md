@@ -36,4 +36,79 @@
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Competitive%20Programmer-FF00FF?style=for-the-badge" />
 </p>
+## 🧰 Languages & Tools
+
+<div style="
+  background-color:#f9fafb;
+  border:1px solid #e5e7eb;
+  border-radius:10px;
+  padding:18px;
+  margin-bottom:14px;
+">
+
+### 💻 Programming
+<span style="color:#374151;">
+Python · Java · C · JavaScript · TypeScript
+</span>
+
+</div>
+
+<div style="
+  background-color:#f9fafb;
+  border:1px solid #e5e7eb;
+  border-radius:10px;
+  padding:18px;
+  margin-bottom:14px;
+">
+
+### 🎨 Frontend
+<span style="color:#374151;">
+HTML · CSS · React
+</span>
+
+</div>
+
+<div style="
+  background-color:#f9fafb;
+  border:1px solid #e5e7eb;
+  border-radius:10px;
+  padding:18px;
+  margin-bottom:14px;
+">
+
+### 🧠 Backend
+<span style="color:#374151;">
+Node.js · Express.js
+</span>
+
+</div>
+
+<div style="
+  background-color:#f9fafb;
+  border:1px solid #e5e7eb;
+  border-radius:10px;
+  padding:18px;
+  margin-bottom:14px;
+">
+
+### 🗄️ Databases
+<span style="color:#374151;">
+MySQL · MongoDB
+</span>
+
+</div>
+
+<div style="
+  background-color:#f9fafb;
+  border:1px solid #e5e7eb;
+  border-radius:10px;
+  padding:18px;
+">
+
+### 🛠️ Tools
+<span style="color:#374151;">
+Git · GitHub · Visual Studio Code
+</span>
+
+</div>
 
