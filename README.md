@@ -168,17 +168,14 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
 
-## ⚔️ Codeforces Stats
+## 🔥 GitHub Contributions
 
 <p align="center">
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
 
 <p align="center">
-  <img 
-    src="https://codeforces-readme-stats.vercel.app/api/card?username=Divyasrim19&theme=dark"
-    alt="Codeforces Stats"
-  />
+  Actively contributing to repositories and consistently improving through hands-on coding.
 </p>
 
 <p align="center">
