@@ -1,8 +1,11 @@
 <h1 align="center">Hey 👋, I'm Divyasri</h1>
 
-<h3 align="center">
-  Full Stack Developer (Web & Mobile)
-</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(Web+%26+Mobile);AI+%26+ML+Enthusiast;IoT+Explorer;Competitive+Programmer"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
   Building scalable applications • Solving problems • Learning continuously
@@ -11,6 +14,7 @@
 <p align="center">
   <span style="display:inline-block;width:140px;border-top:2px solid #2f3542;"></span>
 </p>
+
 
 
 
