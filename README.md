@@ -9,7 +9,7 @@
 </p>
 
 
- 👩‍💻 About Me
+ 👩‍💻 ABOUT ME
 
 I’m **Divyasri**, a Computer Science student with a strong interest in building modern, scalable, and impactful software solutions.
 
@@ -70,6 +70,38 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+<p align="center">
+  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+</p>
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyasri-m-3036362a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/W45JOy9Qxo/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/kit27cse19" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/Divyasrim19" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="mailto:divyasri.m018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
