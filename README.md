@@ -15,7 +15,8 @@
     border-bottom: 2px solid #0ea5e9;
     padding-bottom: 4px;
   ">
-## 👩‍💻 About Me
+    
+👩‍💻 About Me
 
 🎓 I am **Divyasri**, a passionate and dedicated **Computer Science student** with a strong interest in building impactful and scalable software solutions.
 
@@ -36,15 +37,7 @@
   <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Competitive%20Programmer-FF00FF?style=for-the-badge" />
 </p>
-## 🧰 Languages & Tools
 
-<div style="
-  background-color:#f9fafb;
-  border:1px solid #e5e7eb;
-  border-radius:10px;
-  padding:18px;
-  margin-bottom:14px;
-">
 🧰 Languages & Tools
 💻 Programming
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> </p>
