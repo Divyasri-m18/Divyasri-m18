@@ -144,7 +144,7 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
 
 <p align="center">
   <img 
-    src="https://leetcard.jacoblin.cool/leetcode.com/u/W45JOy9Qxo/
+    src="https://leetcode.com/u/W45JOy9Qxo/
 ?theme=dark&font=Karma&ext=heatmap"
     alt="LeetCode Stats"
   />
