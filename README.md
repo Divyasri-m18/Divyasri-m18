@@ -15,70 +15,25 @@
     border-bottom: 2px solid #0ea5e9;
     padding-bottom: 4px;
   ">
-   ## 👤 About Me
+## 👩‍💻 About Me
 
-<div style="
-  display:flex;
-  gap:24px;
-  background-color:#0b1220;
-  border:1px solid #1f2937;
-  border-radius:14px;
-  padding:26px;
-  line-height:1.7;
-">
+🎓 I am **Divyasri**, a passionate and dedicated **Computer Science student** with a strong interest in building impactful and scalable software solutions.
 
-<div style="flex:2; color:#e5e7eb;">
+🚀 **My expertise includes:**
+- 🤖 **Artificial Intelligence & Machine Learning (AI/ML)**
+- 🌐 **Internet of Things (IoT)**
+- 💻 **Full Stack Development** – Web & Mobile Applications
+- 🧠 **Competitive Programming**
 
-<p>
-<strong>AI & ML / IoT / Full Stack Developer (Web + Mobile) / Competitive Programmer</strong>
+🏆 I actively practice **Competitive Programming** on platforms like:
+- 🔸 **LeetCode**
+- 🔸 **CodeChef**
+
+💡 I enjoy solving real-world problems through code, exploring new technologies, and continuously improving my problem-solving skills.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Competitive%20Programmer-FF00FF?style=for-the-badge" />
 </p>
 
-<p>
-I am <strong>Divyasri</strong>, a Computer Science student with a strong passion for learning, innovation, and problem-solving. I enjoy building intelligent systems and scalable applications that create real-world impact.
-</p>
-
-<p>
-I have hands-on experience in <strong>full stack development</strong>, working across both web and mobile platforms, where I focus on writing clean, efficient, and maintainable code.
-</p>
-
-<p>
-Alongside development, I actively practice <strong>Competitive Programming</strong> to strengthen my logical thinking and algorithmic skills on platforms like <strong>LeetCode</strong> and <strong>CodeChef</strong>.
-</p>
-
-<p>
-I am continuously exploring new technologies, improving my technical expertise, and contributing to meaningful projects while growing as a software engineer.
-</p>
-
-</div>
-
-<div style="
-  flex:1;
-  background-color:#020617;
-  border:1px solid #1f2937;
-  border-radius:12px;
-  padding:18px;
-  color:#cbd5f5;
-  font-size:14px;
-">
-
-<p><strong>🎯 Core Focus</strong></p>
-<p>• Full Stack Development<br>
-• AI & Machine Learning<br>
-• Internet of Things<br>
-• Competitive Programming</p>
-
-<hr style="border:0.5px solid #1f2937;">
-
-<p><strong>🏆 Platforms</strong></p>
-<p>• LeetCode<br>
-• CodeChef</p>
-
-</div>
-
-</div>
-
-</ul>
-
-I’m continuously learning new technologies and striving to grow as a well-rounded software engineer.
-
-</div>
