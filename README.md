@@ -108,3 +108,31 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=divyasri-m18&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=divyasri-m18&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyasri-m18&layout=compact&theme=tokyonight&hide_border=true" 
+    height="150"
+  />
+</p>
+
+<p align="center">
+  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+</p>
+
