@@ -160,7 +160,8 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
 
 <p align="center">
 
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=kit27cse19&theme=dark)
+![CodeChef](https://img.shields.io/badge/CodeChef-kit27cse19-brown?style=for-the-badge&logo=codechef)
+
 
 </p>
 
