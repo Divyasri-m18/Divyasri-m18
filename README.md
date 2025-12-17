@@ -15,30 +15,68 @@
     border-bottom: 2px solid #0ea5e9;
     padding-bottom: 4px;
   ">
-    About Me
-  </span>
-</h2>
+   ## 👤 About Me
 
 <div style="
-  margin-top: 14px;
-  padding: 18px 20px;
-  background-color: #f9fafb;
-  border: 1px solid #e5e7eb;
-  border-radius: 10px;
-  line-height: 1.6;
+  display:flex;
+  gap:24px;
+  background-color:#0b1220;
+  border:1px solid #1f2937;
+  border-radius:14px;
+  padding:26px;
+  line-height:1.7;
 ">
 
+<div style="flex:2; color:#e5e7eb;">
+
+<p>
 <strong>AI & ML / IoT / Full Stack Developer (Web + Mobile) / Competitive Programmer</strong>
-<br><br>
+</p>
 
-I’m <strong>Divyasri</strong>, a Computer Science student with a strong interest in building intelligent systems and scalable full-stack applications that solve real-world problems.
+<p>
+I am <strong>Divyasri</strong>, a Computer Science student with a strong passion for learning, innovation, and problem-solving. I enjoy building intelligent systems and scalable applications that create real-world impact.
+</p>
 
-I work across both <strong>web and mobile platforms</strong>, combining frontend design with backend logic to deliver complete end-to-end solutions.
+<p>
+I have hands-on experience in <strong>full stack development</strong>, working across both web and mobile platforms, where I focus on writing clean, efficient, and maintainable code.
+</p>
 
-I actively practice <strong>Competitive Programming</strong> to improve my algorithmic thinking and problem-solving skills on:
-<ul>
-  <li><strong>LeetCode</strong></li>
-  <li><strong>CodeChef</strong></li>
+<p>
+Alongside development, I actively practice <strong>Competitive Programming</strong> to strengthen my logical thinking and algorithmic skills on platforms like <strong>LeetCode</strong> and <strong>CodeChef</strong>.
+</p>
+
+<p>
+I am continuously exploring new technologies, improving my technical expertise, and contributing to meaningful projects while growing as a software engineer.
+</p>
+
+</div>
+
+<div style="
+  flex:1;
+  background-color:#020617;
+  border:1px solid #1f2937;
+  border-radius:12px;
+  padding:18px;
+  color:#cbd5f5;
+  font-size:14px;
+">
+
+<p><strong>🎯 Core Focus</strong></p>
+<p>• Full Stack Development<br>
+• AI & Machine Learning<br>
+• Internet of Things<br>
+• Competitive Programming</p>
+
+<hr style="border:0.5px solid #1f2937;">
+
+<p><strong>🏆 Platforms</strong></p>
+<p>• LeetCode<br>
+• CodeChef</p>
+
+</div>
+
+</div>
+
 </ul>
 
 I’m continuously learning new technologies and striving to grow as a well-rounded software engineer.
