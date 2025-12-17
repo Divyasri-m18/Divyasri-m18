@@ -136,3 +136,21 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
 
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+</p>
+
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/leetcode.com/u/W45JOy9Qxo/
+?theme=dark&font=Karma&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+</p>
+
+<p align="center">
+  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+</p>
+
