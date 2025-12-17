@@ -159,13 +159,11 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
 </p>
 
 <p align="center">
-
-![CodeChef](https://img.shields.io/badge/CodeChef-kit27cse19-brown?style=for-the-badge&logo=codechef)
-
-
+  <a href="https://www.codechef.com/users/kit27cse19" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-kit27cse19-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
-
