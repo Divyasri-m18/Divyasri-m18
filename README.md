@@ -151,3 +151,20 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
 <p align="center">
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
+
+## 🍽️ CodeChef Stats
+
+<p align="center">
+  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+</p>
+
+<p align="center">
+
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api?username=kit27cse19&theme=dark)
+
+</p>
+
+<p align="center">
+  <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
+</p>
+
