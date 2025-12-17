@@ -29,6 +29,7 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
 
+
 ### 💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -76,6 +77,8 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
 
+
+
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -108,6 +111,8 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
 
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -136,6 +141,8 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
 
+
+
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -152,6 +159,8 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
 
+
+
 ## 🍽️ CodeChef Stats
 
 <p align="center">
@@ -167,6 +176,8 @@ I’m continuously learning new technologies, exploring innovative ideas, and st
 <p align="center">
   <span style="display:inline-block;width:120px;border-top:2px solid #2f3542;"></span>
 </p>
+
+
 
 ## 🔥 GitHub Contributions
 
